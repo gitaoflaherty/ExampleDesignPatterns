@@ -12,7 +12,7 @@ namespace TestStructural
         public void Test()
         {
             IReceiver modelA = new AdapterModelA( new ReceiverModelA());
-            modelA.AcquireIQ();
+            modelA.AcquireIQ();          
         }
     }
 }

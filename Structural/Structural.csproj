@@ -43,6 +43,10 @@
   <ItemGroup>
     <Compile Include="AdapterModelA.cs" />
     <Compile Include="CompositeEmployee.cs" />
+    <Compile Include="DecoratorRedShape.cs" />
+    <Compile Include="DecoratorShape.cs" />
+    <Compile Include="FascadeShape.cs" />
+    <Compile Include="FlyweightShapeFactory.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

@@ -7,8 +7,8 @@
     <ProjectGuid>{82159A8D-2EA5-491D-83F5-61FF0D37CE56}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Behavioral</RootNamespace>
-    <AssemblyName>Behavioral</AssemblyName>
+    <RootNamespace>DesignPatterns.Behavioral</RootNamespace>
+    <AssemblyName>DesignPatterns.Behavioral</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
